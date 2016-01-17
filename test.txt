@@ -9,3 +9,5 @@ I now added some words.
 second to modify --- 16/1/12 15:18
 ----------------------------------
 delete file in git....
+===================================
+use branches to manage work is better.
