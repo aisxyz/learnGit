@@ -17,4 +17,9 @@ Does this make conflict?
 
 =================================
 
+<<<<<<< Updated upstream
 Now, I need to fix some bugs.
+=======
+You are so stupid....
+
+>>>>>>> Stashed changes
