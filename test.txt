@@ -1,2 +1,17 @@
 haha
 How to revoca the modifications ? 
+<--------------------------->
+some words here`
+I just obey it.
+come from dev branch...
+do you know me?
+now is 24:00.
+=============================
+I now added some words.
+-----------------------------
+second to modify --- 16/1/12 15:18
+----------------------------------
+delete file in git....
+===================================
+use branches to manage work is better
+try it ...
